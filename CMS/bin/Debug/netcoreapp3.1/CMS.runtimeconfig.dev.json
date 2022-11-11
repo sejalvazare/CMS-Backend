@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sejal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sejal\\.nuget\\packages"
+    ]
+  }
+}
